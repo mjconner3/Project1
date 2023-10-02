@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <body>
+ <link rel="stylesheet" href="index.html">
+  <link rel="stylesheet" href="index2.html">
 	<h1>Personal Resume</h1>
 	<h3>Fall 2023</h3>
 	<p>Mirrah Jade Conner  Email: mconner3@hawk.iit.edu</p>
