@@ -31,12 +31,13 @@ Urban Growers Collective
 Learned about diverse herbs, plants, and produce. I learned how to harvest on a farm, how to plant, and intellectually plan how to plant produce together so they can benefit each other during their growth process. I learned about food justice in Chicago, the culinary aspect of food, and the environmental resources for growing food, and I learned how to identify certain crops and weeds.</li>
 		<li>After School Matters March 2022  – May 2022 Civic Studios Chicago Produced a video podcast for Women’s History Month Podcast production Produces and directed music videos for local city artists</li>
 	</ul>
-	<h4>Course Objectives:</h4>
-	<p>At the conclusion of this course, each successful student will able to:</p>
+	<h4>EXTRACURRICULAR EXPERIENCE</h4>
+	<p>Chicago High School for Agricultural Sciences						Chicago, IL	</p>
 	<ul>
-		<li>Explain the client and server architecture of the Internet and related web technologies.</li>
-		<li>Use a basic text editor and other software tools to create web pages using HTML, CSS, JavaScript, jQuery, and images.</li>
-		<li>Deploy web pages to a Linux-based web server using sftp.</li>
+		<liAdvocate for Girls Flag Football                                                                                               Aug. 2022 - Nov. 2022 </li>
+		<li>Girls Varsity Swimming Team                                                                                                     Aug. 2020 - Oct. 2020  </li>
+		<li>OSHA                                                                                                                                              Dec. 2022 - Jan. 2022 </li>
+		<li> FFA Committee Involvement                                                                                                     Sept. 2020 - Apr. 2024 </li>
 	</ul>
 </body>
 </html>
