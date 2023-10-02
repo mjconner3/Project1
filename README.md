@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <body>
+<li><a href="index.html">Webiste2</a></li>
+  <li><a href="index2.html">Website3</a></li>
  <link rel="stylesheet" href="index.html">
   <link rel="stylesheet" href="index2.html">
 	<h1>Personal Resume</h1>
@@ -36,7 +38,5 @@ Learned about diverse herbs, plants, and produce. I learned how to harvest on a 
 		<li>OSHA                                                                                                                                              Dec. 2022 - Jan. 2022 </li>
 		<li> FFA Committee Involvement                                                                                                     Sept. 2020 - Apr. 2024 </li>
 	</ul>
-	<li><a href="index.html">Home</a></li>
-  <li><a href="index2.html">Contact</a></li>
 </body>
 </html>
