@@ -2,7 +2,7 @@
 <body>
 	<h1>Personal Resume</h1>
 	<h3>Fall 2023</h3>
-	<p>Mirrah Jade Conner   mconner3@hawk.iit.edu</p>
+	<p>Mirrah Jade Conner  Email: mconner3@hawk.iit.edu</p>
 	<h2>Professor:</h2>
 	<p>Daniel Krieglstein</p>
 	<h2>EDUCATION  </h2>
