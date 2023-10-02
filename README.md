@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <body>
-	<h1>The Resume</h1>
+	<h1>Personal Resume</h1>
 	<h3>Fall 2023</h3>
 	<p>Mirrah Jade Conner   mconner3@hawk.iit.edu</p>
 	<h2>Professor:</h2>
