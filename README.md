@@ -1,8 +1,4 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-	<title>Mirrah Jade Conner</title>
-</head>
 <body>
 	<h1>The Resume</h1>
 	<h3>Fall 2023</h3>
