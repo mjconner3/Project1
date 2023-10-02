@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Mirrah Jade Conner</title>
 </head>
 <body>
 	<h1>The Resume</h1>
