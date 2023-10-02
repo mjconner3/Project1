@@ -11,9 +11,12 @@
 	<h2>Professor:</h2>
 	<p>Daniel Krieglstein</p>
 	<h2>EDUCATION  </h2>
-	<p>Chicago High School for Agricultural Sciences May 2024 Area of Focus:  Biotechnology In Agriculture GPA: 4.3 CLASS RANK: 27/150 </p>
+	<p>Chicago High School for Agricultural Sciences May 2024 Area of Focus:  Biotechnology In Agriculture
+	 GPA: 4.3 
+	 CLASS RANK: 27/150 </p>
 	<h2>EMPLOYMENT & LEADERSHIP EXPERIENCE</h2>
-	<p>After School Matters July  2022  – August  2022 Urban Growers Collective Learned about diverse herbs, plants, and produce. I learned how to harvest on a farm, how to plant, and intellectually plan how to plant produce together so they can benefit each other during their growth process. I learned about food justice in Chicago, the culinary aspect of food, and the environmental resources for growing food, and I learned how to identify certain crops and weeds.After School Matters March 2022  – May 2022 Civic Studios Chicago Produced a video podcast for Women’s History Month podcast production Produces and directed music videos for local city artists</p>
+	<p>After School Matters July  2022  – August  2022 Urban Growers Collective Learned about diverse herbs, plants, and produce. I learned how to harvest on a farm, how to plant, and intellectually plan how to plant produce together so they can benefit each other during their growth process. I learned about food justice in Chicago, the culinary aspect of food, and the environmental resources for growing food, and I learned how to identify certain crops and weeds. 
+	After School Matters March 2022  – May 2022 Civic Studios Chicago Produced a video podcast for Women’s History Month podcast production Produces and directed music videos for local city artists</p>
 	<h2>TECHNICAL SKILLS</h2>
 	<ul>
   <li>Google Application Mastered </li>
