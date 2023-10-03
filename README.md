@@ -38,3 +38,9 @@ Learned about diverse herbs, plants, and produce. I learned how to harvest on a 
 	</ul>
 </body>
 </html>
+=======
+  <li><a href="index2.html">Website3</a></li>
+	</ul>
+</body>
+</html>
+>>>>>>> a8479cbbecf504d3793590d2348df3d252e4d398
