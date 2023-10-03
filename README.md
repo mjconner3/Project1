@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <body>
 	<h1>Personal Resume</h1>
 	<h3>Fall 2023</h3>
